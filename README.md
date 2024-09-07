@@ -1,4 +1,5 @@
 # DeepKEGG
+W Lan, H Liao, Q Chen, L Zhu, Y Pan, YPP Chen. DeepKEGG: a multi-omics data integration framework with biological insights for cancer recurrence prediction and biomarker discovery. Briefings in Bioinformatics 25 (3), bbae185
 
 DeepKEGG is a multi-omics data integration framework with biological insights for cancer recurrence prediction and biomarker discovery. DeepKEGG can efficiently alleviate the curse of dimensionality in the integration of multi-omics data by using the local connectivity of neuron nodes. In addition, it can enhance the robustness of the model by employing a pathway self-attention module to learn the correlation features of different samples in the pathway feature space. Furthermore,  DeepKEGG can reveal the regulatory relationships between genes, pathways and cancers by calculating the contribution scores of biological nodes.
 
